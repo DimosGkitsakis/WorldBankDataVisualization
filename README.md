@@ -48,7 +48,7 @@ You can find the video link and the report of the project in the folder Delivera
 * [node.js](https://nodejs.org/en/)
 
 ### For graphs:
-* [beloved D3.js](https://d3js.org/)
+* [D3.js](https://d3js.org/)
 
 ## Developer Team:
 * **Gkitsakis Dimos**
