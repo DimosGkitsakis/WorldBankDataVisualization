@@ -51,6 +51,6 @@ You can find the video link and the report of the project in the folder Delivera
 * [beloved D3.js](https://d3js.org/)
 
 ## Developer Team:
-* **Gkitsakis Dimos** - AM: 2425
-* **Kaloudis Spyridon** - AM: 2447
-* **Chouliaras Ioannis** - AM: 2631
+* **Gkitsakis Dimos**
+* **Kaloudis Spyridon**
+* **Chouliaras Ioannis**
